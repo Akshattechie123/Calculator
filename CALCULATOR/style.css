@@ -1,0 +1,25 @@
+html {
+    height: 100%;
+    width: 100%;
+  }
+  
+  .button {
+    width: 50px;
+    padding: 30px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 6px;
+    cursor: pointer;
+    font-size: large;
+  }
+  
+  .row {
+    margin: 8px 0;
+  }
+  
+  .row1:hover {
+    margin: 5px;
+    padding: 0px 0px;
+    border: 2px solid black;
+    border-radius: 6px;
+  }
